@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer theme {
+    :root {
+        --color-primary: #09f;
+        --color-primary-light: #ceecff;
+        --color-primary-dark: rgb(0,22,83);
+
+        --breakpoint-xs: 350px;
+
+    }
+}
